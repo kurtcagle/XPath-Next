@@ -23,7 +23,8 @@ XPath Next is a place to gather requirement for evolution of XPath standards com
     * *Please help providing missing XPath hosts*
     ...
  * Potential language host
- 
+   * JSON
+   * RDF/Sparql Paths
  * Existing related syntax (subset, superset or else)
    * Subset
       * [XML Schema 1.0 subsets](https://www.w3.org/TR/2004/PER-xmlschema-1-20040318/#coss-identity-constraint)
